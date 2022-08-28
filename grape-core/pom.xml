@@ -18,4 +18,9 @@
         <maven.compiler.target>13</maven.compiler.target>
     </properties>
 
+    <modules>
+        <module>grape-core-mysql</module>
+        <module>grape-core-api</module>
+    </modules>
+
 </project>
